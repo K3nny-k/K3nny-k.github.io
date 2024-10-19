@@ -1,6 +1,7 @@
 ## Gallary 
 
 
-<img src="/images/first-image.jpeg" alt="Alt text">
+<img src="/images/first-image.jpeg" alt="123" width="500" height="300">
+
 
 
