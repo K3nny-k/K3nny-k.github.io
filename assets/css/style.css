@@ -1,0 +1,12 @@
+/* assets/css/style.css */
+
+.photo-gallery {
+    text-align: center;
+  }
+  
+  .photo-gallery img {
+    max-width: 80%;
+    height: auto;
+    margin: 20px 0;
+  }
+  
