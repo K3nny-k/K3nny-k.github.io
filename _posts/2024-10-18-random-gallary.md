@@ -1,7 +1,8 @@
 ## Gallary 
 
 
-<img src="/images/first-image.jpeg" alt="123" width="500" height="auto">
+<img src="/images/first-image.jpeg" alt="sunset" style="display:block; margin:0 auto; max-width:100%; height:auto;">
+
 
 
 
